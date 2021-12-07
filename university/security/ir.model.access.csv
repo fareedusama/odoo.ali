@@ -1,0 +1,3 @@
+id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
+access_university_department,university.department,model_university_department,,1,1,1,1
+access_university_teacher,university.teacher,model_university_teacher,,1,1,1,1
